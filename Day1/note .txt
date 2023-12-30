@@ -1,0 +1,16 @@
+JRE => Java Runtime Environment(JVM + Language API)
+JDK => Java Development Kit (JRE + Compiler)
+
+JavaSE => Java Standard Edition (Software Development)
+JavaEE => Java Enterprise Edition (Bank)
+JavaME => Java Micro Edition (Embedded System)
+
+Java OOP => Object Oriented Programming => paradigm
+
+Paradigm
+--------
+Procedual, Imparative
+OOP 
+Functional
+
+Java => static type programming language

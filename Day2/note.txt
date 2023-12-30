@@ -1,0 +1,51 @@
+comments
+********
+Single line comments
+multi line comments
+Doumentation comments /**
+
+data types
+**********
+int, boolean(true, false)
+
+variables
+*********
+- store data
+
+Operators
+*********
+Arithmetic Operators
+********************
++, -, *, /, %
+
+Relational Operators
+********************
+>, <, >=, <=, ==, != 
+
+Logical Operators
+*****************
+&&, ||, ! => and, or, not
+
+(10>20) && (50>60)
+&& => 
+true && true => true
+true && false => false
+false && true => false
+false && false => false
+
+true && true && true => true
+
+|| => 
+true || true => true
+true || false => true
+false || true => true
+false || false => false
+
+true || true || true => true
+
+! =>
+!true => false
+!false => true
+
+
+Syntax, semtatic, pragmatic, design patterns (GoF)
