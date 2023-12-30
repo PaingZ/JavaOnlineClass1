@@ -1,1 +1,41 @@
-github
+Operators
+---------
+Arithmetic, Relational, Logical
+
++ - * / %
+> < == != >= <=
+&& || !
+and or
+
+Conditional Statement(true, false)
+---------------------
+if else
+
+data types
+----------
+int, boolean, float
+
+int => byte, short, long
+float => double
+
+Size
+----
+8 bits = 1 bytes
+int => 4 bytes => 32 bits => 2 to the power 32 => 4294967296/2 => 
+byte => 1 bytes => 8 bits => 2 to the power 8 => 256/2 => -128 to 127
+short => 2 bytes => 16 bits => 2 to the power 16 => 65536/2 => -32768 to 32767
+long => 8 bytes => 64 bits => 2 to the power 64
+
+float => 4 bytes => 32 bits => -2.0067
+double => 8 bytes => 64 bits
+
+type casting
+------------
+(float)var_name
+
+
+Operator
+--------
+Assignment Operators
+---------------------
+=, +=, -=, *=, /= , %=
