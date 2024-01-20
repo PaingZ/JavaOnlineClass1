@@ -1,0 +1,49 @@
+ternary operator
+----------------
+variable= (condition) ? "true" : "false"
+
+Relational operator
+------------------
+>=, <= >, <, ==, !=
+
+Logical operator
+----------------
+&&, ||, !
+
+arithmetic operator, assignment operator, 
+
+
+<operand> <operator> <operand>
+num1 + num2
+
+unary operator(++, --)
+--------------
+- have only one operand
+                ++num   ,  num++
+- increment(pre increment, post increment)
+                --num    , num--
+- decrement(pre decrement, post decrement)
+
+num1++
+num1--
+
+conditional statement
+--------------------
+if else, ternary operator, switch case break
+
+Input
+-----
+Scanner var_name = new Scanner(System.in)
+int => var_name.nextInt()
+float => var_name.nextFloat()
+char => var_name.next().charAt(0)
+
+format specifier
+---------------
+%d => int
+%f => float, double
+%s => String
+%c => character
+
+type casting
+-----------
