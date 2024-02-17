@@ -1,0 +1,11 @@
+Syntax
+-------
+String name;//Java
+name string//go
+
+Semantics
+---------
+behind the sense
+
+Pragamatic
+-----------
