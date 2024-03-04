@@ -1,0 +1,10 @@
+OOP => Object Oriented Programming
+
+Procedual Style
+Imperative Programming
+
+blueprint
+class{
+    //variables(field)
+    //methods
+}
