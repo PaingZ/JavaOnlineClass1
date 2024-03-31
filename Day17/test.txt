@@ -1,0 +1,19 @@
+Primitive Types and Reference Types
+
+byte, short, int, long, float, double, char, boolean => Primitive Types
+class, interface, array, String => Reference types
+
+Byte, Short, Integer, Long, Float, Double, Character, Boolean => References Type
+
+Object Wrapper
+------------
+use Primitive types as Reference type
+
+Object Oriented Programming(OOP)
+------------------------------
+Pure OO, Impure OO
+
+
+Methods
+-------
+Instance Methods vs Static Methods
