@@ -1,0 +1,20 @@
+//OOP Paradigm
+//- Encapsulation
+//- Inheritance
+//- Polymorphism
+
+//methods
+//static method vs instance method
+
+class Main{
+    methods
+}
+
+//Create Read, Update, Delete -> separate methods
+//Login and Register
+
+gmail validator
+---------------
+- @gmail.com
+- no white space
+- just one @
