@@ -1,0 +1,23 @@
+Bank Management System
+----------------------
+Data -> name, email(unique), phone_number(unique), pin_number(number, 6 digits), amount
+Login -> (phone_number, pin_number)
+Register-> (name, email, phone_number, pin_number, amount)
+
+
+validator -> regular expression (email, phone_number, pin_number)
+
+**********************
+Bank Management System
+**********************
+1. Login
+2. Register
+0. Exit
+
+Login Success
+-------------
+Welcome username
+1. Check Balance -> 
+2. Deposit
+3. Withdraw
+0. Logout

@@ -1,0 +1,14 @@
+File handling
+-------------
+
+Array CRUD(Create, Read, Update Delete)
+----------
+(read all data from file and put it into array)
+1. Create
+2. Read All
+3. Update
+4. Delete
+0. Exit-> write to file (array data)
+
+
+Bank Management System -> file handling

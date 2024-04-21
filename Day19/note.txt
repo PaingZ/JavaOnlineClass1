@@ -1,0 +1,6 @@
+Password Validator
+------------------
+- at least 8 characters
+- at least one capital letter
+- at least one small letter
+- at least one number

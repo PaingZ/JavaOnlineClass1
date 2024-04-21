@@ -1,0 +1,6 @@
+OOP
+---
+Encapsulation
+Inheritance
+Polymorphism
+

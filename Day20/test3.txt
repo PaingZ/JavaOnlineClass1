@@ -1,0 +1,16 @@
+Contact Management System
+-------------------------
+
+Data -> Name, phone_number, email
+
+*************************
+Contact Management System
+*************************
+1. Add Contact
+2. Read All Contact
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+0. Exit
+
+File handling
